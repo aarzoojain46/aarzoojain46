@@ -1,6 +1,7 @@
 ![logo](https://github.com/aarzoojain46/aarzoojain46/blob/main/github-header-banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Aarzoo</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
+<img align="right" alt="CODING.." width="300" src="https://i.pinimg.com/originals/08/0f/f3/080ff34d3305888ca6e7e216fedc60dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarzoojain46&label=Profile%20views&color=0e75b6&style=flat" alt="aarzoojain46" /> </p>
 
